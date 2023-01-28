@@ -1,0 +1,31 @@
+form {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-family: 'Courier New', monospace;
+    font-size: 30px;
+    color: rgb(255, 100, 0);
+}
+
+input {
+    padding: 5px 5px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    width: 50%;
+    font-family: 'Courier New', monospace;
+}
+
+#submit-button {
+    background-color:  rgb(255, 100, 0);
+   color: white;
+   width: 100px;
+   position: absolute;
+   left: 30%;
+   top: 120%;
+   font-size: 20px;
+   border-radius: 10px;
+}
