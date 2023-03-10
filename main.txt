@@ -1,0 +1,8 @@
+Siamese Network - https://www.youtube.com/watch?v=6jfw8MuKwpI
+Triplet Loss    - https://www.youtube.com/watch?v=d2XB5-tuCWU
+Research Paper  - Deep Face - https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf
+Research Paper  - FaceNet   - 
+Face Verification - https://www.youtube.com/watch?v=0NSLgoEtdnw
+
+https://towardsdatascience.com/a-friendly-introduction-to-siamese-networks-85ab17522942
+https://medium.com/swlh/siamese-network-for-facial-recognition-5bd33be9e381

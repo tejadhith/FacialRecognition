@@ -1,2 +1,2 @@
 # FacialRecognition
-A Project done under the Epoch Club (The AI-ML and Data Science Club of IITH) as a core member. The project focusses on facial recognition, which is applied to attendance verification.
+A Learning Project done a Core member of the Epoch Club (The AI-ML and Data Science Club of IITH). The project focuses on facial recognition, which is applied to attendance verification. \
