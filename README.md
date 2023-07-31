@@ -1,2 +1,3 @@
 # FacialRecognition
-A Learning Project done a Core member of the Epoch Club (The AI-ML and Data Science Club of IITH). The project focuses on facial recognition, which is applied to attendance verification. \
+The project does face verification using one-shot learning using Siamese Neural Networks which was trained on Olliveti Dataset.
+The trained model is used for Attendance Marking which was implemented using Streamlit.
